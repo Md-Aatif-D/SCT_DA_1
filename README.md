@@ -41,13 +41,16 @@ The raw dataset was cleaned in Microsoft Excel before analysis. Steps performed:
 
 Each visualization is saved as an independent Excel file with its own dedicated Pivot Table and Chart.
 
-**Total Sales by Category**
+**Total Sales by Category:-** 
+
 Column chart comparing total revenue across all product categories, making it easy to identify the highest and lowest performing segments.
 
-**Total Profit by Category**
+**Total Profit by Category:-**
+
 Chart displaying net profit per category. Conditional Formatting was applied to distinguish positive profit (green) from losses (red) at a glance.
 
-**Sales Trend Over Time**
+**Sales Trend Over Time:-**
+
 Line chart tracking sales progression over time, surfacing seasonal patterns and overall business growth trends.
 
 ---
@@ -104,7 +107,7 @@ Superstore-Sales-Analysis/
 
 ## Author
 
-**Your Name** — Data Analyst Intern, SkillCraft Technology
+**Mohammed Aatif.D** — Data Analyst Intern, SkillCraft Technology
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-linkedin-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/your-github-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mohammed-aatif-d-12319635)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Md-Aatif-D)
